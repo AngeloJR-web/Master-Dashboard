@@ -22,7 +22,6 @@
 
 ## 📸 Screenshots
 
-*(Nota: Adicione aqui imagens do seu aplicativo funcionando para impressionar quem visitar o repositório)*
 
 | Dashboard do Mestre | Palco Tático 3D |
 |:---:|:---:|
