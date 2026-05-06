@@ -18,21 +18,7 @@
 * **Inventário e Ocultismo:** Gestão visual de espaços, peso de itens, poderes e rituais com seus respectivos custos e descrições.
 * **Performance Nativa:** Empacotado com Tauri (Rust), garantindo uso mínimo de memória RAM e inicialização instantânea no Windows, superando VTTs baseados em browser.
 
----
 
-## 📸 Screenshots
-
-*(Nota: Adicione aqui imagens do seu aplicativo funcionando para impressionar quem visitar o repositório)*
-
-| Dashboard do Mestre | Palco Tático 3D |
-|:---:|:---:|
-| <img src="link_da_imagem_1.png" width="400"/> | <img src="link_da_imagem_2.png" width="400"/> |
-
-| Rolador de Dados | Criação de Agente |
-|:---:|:---:|
-| <img src="link_da_imagem_3.png" width="400"/> | <img src="link_da_imagem_4.png" width="400"/> |
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -60,7 +46,7 @@ Se você quer rodar o projeto localmente ou contribuir:
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/AngeloJR-web/ordo-alvarus.git](https://github.com/AngeloJR-web/ordo-alvarus.git)
+git clone [https://github.com/AngeloJR-web/Master-Dashboard.git](https://github.com/AngeloJR-web/Master-Dashboard.git)
 
 2. Instale as dependências do Frontend:
 cd ordo-alvarus
