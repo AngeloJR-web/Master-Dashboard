@@ -33,7 +33,7 @@ export function NotesPanel() {
     }
   };
 
-  // Atualiza o título ou o conteúdo em tempo real
+  // Atualiza o título ou o conteúdo
   const updateActiveNote = (field, value) => {
     setNotes(notes.map(n => n.id === activeNoteId ? { ...n, [field]: value } : n));
   };

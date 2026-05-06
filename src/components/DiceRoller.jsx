@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-// Mapeamento oficial de Perícia -> Atributo (Ordem Paranormal)
+// Mapeamento de Pericias
 const SKILL_ATTRIBUTE_MAP = {
   "Acrobacia": "agi", "Adestramento": "pre", "Artes": "pre", "Atletismo": "for", "Atualidades": "int",
   "Ciências": "int", "Crime": "agi", "Diplomacia": "pre", "Enganação": "pre", "Fortitude": "vig",
