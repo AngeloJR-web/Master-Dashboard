@@ -20,19 +20,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Nota: Adicione aqui imagens do seu aplicativo funcionando para impressionar quem visitar o repositório)*
-
-| Dashboard do Mestre | Palco Tático 3D |
-|:---:|:---:|
-| <img src="link_da_imagem_1.png" width="400"/> | <img src="link_da_imagem_2.png" width="400"/> |
-
-| Rolador de Dados | Criação de Agente |
-|:---:|:---:|
-| <img src="link_da_imagem_3.png" width="400"/> | <img src="link_da_imagem_4.png" width="400"/> |
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
